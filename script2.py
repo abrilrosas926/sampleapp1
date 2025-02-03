@@ -1,5 +1,2 @@
-print("good day")
-print("hello")
-print("version3")
-print("version4")
-print("new version")
+def add_numbers(a, b):
+    return a + b
